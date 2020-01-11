@@ -2,6 +2,7 @@
   "name": "shrecoin2",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://dimanagaev.github.io/shrecoin/"
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
